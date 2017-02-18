@@ -1,0 +1,12 @@
+.getter {
+	width: 20em;
+	margin: 0 auto 3em;
+	text-align: center;
+}
+
+.getter input {
+	padding: 5px;
+	font-family: monospace;
+	display: inline-block;
+	margin: 1em auto;
+}

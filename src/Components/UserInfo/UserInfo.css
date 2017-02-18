@@ -1,0 +1,63 @@
+.User {
+	text-align: center;
+	width: 30em;
+
+	border-radius: 15px;
+	border: 1px solid #B2B2B2;
+	box-shadow: 1px 1px 15px #F4F4F4;
+	background-color: #B2D3FF;
+
+	margin: 0 auto;
+	height: 250px;
+	padding: 25px 20px;
+}
+
+
+.User-details {
+	padding: 15px;
+	color: #222;
+}
+
+.User-details .User-details-name {
+	color: #FB3640;
+	font-size: 1.8em;
+}
+
+.User-details .User-details-email {
+	margin: 0;
+	margin-top: 5px;
+	font-size: 1em;
+}
+
+.User-details .User-details-company {
+	margin: 0;
+	margin-top: 25px;
+}
+
+.User-img {
+	width: 200px;
+	height: 200px;
+	display: inline;
+	float: left;
+
+	border-radius: 10px;
+}
+
+
+.User-follow{
+	display:block;
+	clear: left;
+
+}
+
+.User-follow p {
+	display: inline-block;
+	padding: 0 20px;
+}
+
+
+.follow-number {
+	display: block;
+	font-weight: 900;
+	font-size: 18px;
+}
